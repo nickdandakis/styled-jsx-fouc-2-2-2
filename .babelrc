@@ -1,0 +1,16 @@
+{
+  "presets": [
+    "next/babel",
+    "env",
+  ],
+  "plugins": [
+    [
+      "styled-jsx/babel",
+      {
+        "plugins": [
+          "styled-jsx-plugin-postcss"
+        ]
+      }
+    ]
+  ]
+}
