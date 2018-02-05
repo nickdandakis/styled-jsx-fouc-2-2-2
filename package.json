@@ -9,10 +9,5 @@
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "styled-jsx": "2.2.2"
-  },
-  "devDependencies": {
-    "postcss-cssnext": "^3.1.0",
-    "postcss-import": "^11.0.0",
-    "styled-jsx-plugin-postcss": "^0.1.2"
   }
 }
